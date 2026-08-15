@@ -27,8 +27,8 @@
   <rect x="12" y="12" width="96" height="96" rx="8" fill="none" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
 
   <text x="124" y="36" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="rgba(255,255,255,0.4)" font-weight="600" letter-spacing="1.5">СЕЙЧАС ИГРАЕТ</text>
-  <text x="124" y="60" font-family="system-ui, -apple-system, sans-serif" font-size="16" fill="#f4f4f5" font-weight="700">vengeance (slowed)</text>
-  <text x="124" y="80" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#a1a1aa">slxughter</text>
+  <text x="124" y="60" font-family="system-ui, -apple-system, sans-serif" font-size="16" fill="#f4f4f5" font-weight="700">Пообещай</text>
+  <text x="124" y="80" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#a1a1aa">влад пиво, ЯРЧЕ СОЛНЦА, besoboy</text>
 
   <rect x="124" y="96" width="220" height="3" rx="1.5" fill="rgba(255,255,255,0.08)"/>
   <rect x="124" y="96" width="90" height="3" rx="1.5" fill="#ececec"/>
