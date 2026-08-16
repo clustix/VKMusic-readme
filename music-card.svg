@@ -31,7 +31,7 @@
   <text x="124" y="80" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#a1a1aa">m1v, zeija</text>
 
   <rect x="124" y="96" width="220" height="3" rx="1.5" fill="rgba(255,255,255,0.08)"/>
-  <rect x="124" y="96" width="90" height="3" rx="1.5" fill="#5f5756"/>
+  <rect x="124" y="96" width="90" height="3" rx="1.5" fill="#5e5855"/>
 
   <circle class="ring" cx="415" cy="60" r="26" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
   <circle cx="415" cy="60" r="20" fill="rgba(255,255,255,0.08)"/>
